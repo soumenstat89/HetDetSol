@@ -8,6 +8,8 @@
 
   ## source the HetDetSol functions
   source("HetDetSol_functions.R")
+  source("runHetDetSol.R")
+
   model.set <- c("SCR", "RE", "SARE", "FM", "FE")
     
   runHetDetSol(
