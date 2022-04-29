@@ -9,22 +9,6 @@ library(abind)                     # Import the library for manipulating multidi
 library(basicMCMCplots)
 
 
-# require(rgeos)              # Import the geospatial analysis libraries
-# require(rgdal)              # Import the spatial input/ouput libraries
-# require(raster)             # Import the raster spatial package
-# require(coda)               # Import the MCMC diagnostic tools
-# require(nimble)             # Import the NIMBLE subroutines
-# # require(ggplot2)            # Import the graphical libraries
-# require(R.utils)            # Import the utility functions (some of the API of this package is experimental)
-# require(abind)              # Import the library for manipulating multidimensional arrays
-# require(nimbleSCR)
-# # require(spatstat)
-# # require(maptools)
-# # require(parallel)
-# # require(spatstat.geom)
-# library(basicMCMCplots)
-
-
 ###############################################################
 ##################### MakeHabitat ###############################
 ###############################################################
