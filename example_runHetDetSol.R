@@ -13,8 +13,8 @@
   model.set <- c("SCR", "RE", "SARE", "FM", "FE")
     
   runHetDetSol(
-    modelToFit = "FE"
-    , ToAggregate = F
+    modelToFit = "SARE"
+    , ToAggregate = T
     , sim.type = "CON" 
     , WD = code.folder
     , N = 300
