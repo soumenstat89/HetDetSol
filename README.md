@@ -1,14 +1,12 @@
 # HetDetSol
 Modelling spatially autocorrelated detection probabilities in spatial capture-recapture using random effects
 
-  rm(list=ls())
-  gc()
-  
-  ## source working directories 
+ 
   code.folder<-  getwd()
+  
   setwd(code.folder)
 
-  ## source the HetDetSol functions
+ 
   source("HetDetSol_functions.R")
   source("runHetDetSol.R")
 
